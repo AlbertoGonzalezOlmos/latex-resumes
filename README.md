@@ -1,2 +1,2 @@
-# latex-resumes
-repository of resume templates made in latex
+# Collection of latex templates
+
