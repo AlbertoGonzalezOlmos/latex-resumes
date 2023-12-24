@@ -11,6 +11,10 @@
 \usepackage{anyfontsize}
 \RequirePackage{csquotes}
 
+% LOGOS
+% \usepackage{fontawesome}
+\usepackage{fontawesome5}
+
 % MARGINS AND SPACING
 \RequirePackage[margin=.9in, top=.5in]{geometry} % Set Margins
 \raggedright % left align no indent
@@ -18,11 +22,41 @@
 
 % COLOR
 \RequirePackage{xcolor}
-\definecolor{highlight}{RGB}{61, 90, 128} % CHANGE THIS TO YOUR FAV COLOR https://g.co/kgs/aoqdi7
+\usepackage{transparent}
+\usepackage{stringstrings}
+
+\definecolor{blueIsh}{rgb}{0.094, 0.519, 0.734}
+
+\definecolor{white}{RGB}{255 255 255}
+\definecolor{grey}{RGB}{5 5 5}
+\definecolor{blakish}{RGB}{7 8 10}
+\def\GreyHTML{FAFAFA}
+
+%%%%%%%%% TO USE
+
+% primary color
+\testmatchingchar{\primaryColorToUse}{0}{*}
+\ifmatchingchar \def\primaryColorToUse{blakish} \fi
+
+% secondary color
+\testmatchingchar{\secondaryColorToUse}{0}{*}
+\ifmatchingchar \def\secondaryColorToUse{grey} \fi
+
+% objective text color
+\testmatchingchar{\objTextColorToUse}{0}{*}
+\ifmatchingchar \def\objTextColorToUse{grey} \fi
+
+% primary objective box color
+\testmatchingchar{\primaryHTMLColorToUse}{0}{*}
+\ifmatchingchar \def\primaryHTMLColorToUse{\GreyHTML} \fi
+
+% secondary objective box color
+\testmatchingchar{\secondaryHTMLColorToUse}{0}{*}
+\ifmatchingchar \def\secondaryHTMLColorToUse{} \fi
 
 % LINKS
 \RequirePackage{hyperref}
-\hypersetup{colorlinks=true,urlcolor=highlight}
+\hypersetup{colorlinks=true,urlcolor=blakish}
 
 % BULLET POINTS
 \RequirePackage[inline]{enumitem}

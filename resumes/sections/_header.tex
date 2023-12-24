@@ -1,29 +1,36 @@
 % I edited the minipages to fit widths for if you have a long name and/or title
+
+%====================
+% CONTACT INFORMATION
+%====================
+\author{\textcolor{\primaryColorToUse}{Alberto 
+ }\textcolor{\secondaryColorToUse}{ 
+ Gonz\'alez Olmos}} % Name Here
+\def\phone{ 44161215 }
+\def\city{ Elstedvænge 32, Lystrup}
+\def\github{ pentacosiarca | } % github.com/______
+\def\LinkedIn{ albertoglezol | } % linkedin.com/in/______
+\def\email{alberto.gonzalez.olmos@gmail.com}
+\def\role{Insightful Data Scientist} % JOB TITLE
+
 %====================
 % Header: Contact
 %====================
+
 \begin{center}
-	\begin{minipage}[b]{.75\textwidth}
-	\raggedright
-%	{\large \phone} \\ % PHONE
-%	{\small \city} \\ % City
-%	\href{mailto:\email}{\email} % EMAIL
-	\end{minipage}%
-	\begin{minipage}[b]{.6\textwidth}
+	\begin{minipage}[b]{1\textwidth}
 	\makeatletter
 	\centering {\huge \@author} \\
 	\makeatother
-    \vspace{.7em}
-    {\Large{\role}}
-	\end{minipage}%
-	\begin{minipage}[b]{.3\textwidth}
-	%\raggedleft 
- 	{\phone} \\ % PHONE
-	{\small \city} \\ % City
-	\href{mailto:\email}{\email} % EMAIL
-	\href{https://github.com/\github}{GitHub: \github} \\% Portfolio 
-	\href{https://www.linkedin.com/in/\LinkedIn}{LinkedIn: \LinkedIn} % LinkedIn
+    \vspace{1.5em}
+    {\Large{\role}} \\
+	\vspace{1em}
+	{\faMobile*}{\phone}% PHONE
+	{\faMapMarker*}{\small \city} \\ % City
+	\href{https://github.com/\github}{\faGithub \github}% Portfolio 
+	\href{https://www.linkedin.com/in/\LinkedIn}{\faLinkedin   \LinkedIn} % LinkedIn
+	\href{mailto:\email}{\faIcon{at} \email}  % EMAIL
 	\end{minipage}
-
-%{\color{highlight} \hrule}
 \end{center}
+
+

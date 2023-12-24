@@ -7,12 +7,6 @@
 \usepackage{array}
 
 \usepackage[dvipsnames]{xcolor}
-\definecolor{blueMinerva}{rgb}{0.094, 0.519, 0.734}
-\definecolor{blueBeumer}{rgb}{0.12157 0.72157 0.94509}
-\definecolor{blueSalling}{rgb}{0 0.2902 0.3843}
-\definecolor{blueSalling_secondary}{rgb}{0.598 0.649 0.649}
-
-\def\colorToUse{blueSalling}
 \def\spaceAfterField{-7pt}
 
 %====================
@@ -33,65 +27,62 @@
 %               All actual content is in the sections/ folder.
 %====================
 
-\usepackage{TLCresume}
+\def\primaryColorToUse{*}
+\def\secondaryColorToUse{*}
+\def\primaryHTMLColorToUse{*}
+\def\secondaryHTMLColorToUse{*}
+\def\objTextColorToUse{*}
 
-%====================
-% CONTACT INFORMATION
-%====================
-\author{\textcolor{\colorToUse}{Alberto 
- }\textcolor{blueSalling_secondary}{ 
- Gonz\'alez Olmos}} % Name Here
-\def\phone{44161215}
-\def\city{Elstedvænge 32, Lystrup}
-\def\email{alberto.gonzalez.olmos@gmail.com}
-\def\LinkedIn{albertoglezol} % linkedin.com/in/______
-\def\github{Pentacosiarca} % github.com/______
-\def\role{Insightful Data Scientist} % JOB TITLE
+\usepackage{TLCresume}
 
 \begin{document}
 \import{sections/}{_header}
 
+
+\noindent\rule{16cm}{0.4pt}
+
+
 \import{sections/}{objective}
 \vspace*{7pt}
 
-%\section{\textcolor{\colorToUse}{Certifications}}
+%\section{\textcolor{\primaryColorToUse}{Certifications}}
 %\vspace*{5pt}
 %\import{sections/}{certifications}
 %\vspace*{7pt}
 
 
 
-%\section{\textcolor{\colorToUse}{Project Summary}}
+%\section{\textcolor{\primaryColorToUse}{Project Summary}}
 %\vspace*{3pt}
 %\import{sections/}{projectsummary}
 %\vspace*{7pt}
 
-\section{\textcolor{\colorToUse}{Work Experience}}
+\section{\textcolor{\primaryColorToUse}{Work Experience}}
 \vspace*{5pt}
 \import{sections/}{experience}
 \vspace*{7pt}
 
-\section{\textcolor{\colorToUse}{Skills}}
+\section{\textcolor{\primaryColorToUse}{Skills}}
 \vspace*{5pt}
 \import{sections/}{skills}
 \vspace*{7pt}
 
-\section{\textcolor{\colorToUse}{Education}}
+\section{\textcolor{\primaryColorToUse}{Education}}
 \vspace*{5pt}
 \import{sections/}{education}
 \vspace*{7pt}
 
-\section{\textcolor{\colorToUse}{Courses}}
+\section{\textcolor{\primaryColorToUse}{Courses}}
 \vspace*{5pt}
 \import{sections/}{courses}
 \vspace*{7pt}
 
-\section{\textcolor{\colorToUse}{Publications}}
+\section{\textcolor{\primaryColorToUse}{Publications}}
 \vspace*{5pt}
 \import{sections/}{publications}
 \vspace*{7pt}
 
-\section{\textcolor{\colorToUse}{Hobbies}}
+\section{\textcolor{\primaryColorToUse}{Hobbies}}
 \import{sections/}{hobbies}
 
 \end{document}

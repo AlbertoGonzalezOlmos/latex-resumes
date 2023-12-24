@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.21)  22 DEC 2023 21:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.21)  23 DEC 2023 06:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex
-(c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex
+**c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex
+(c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
 (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -23,29 +23,9 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
- (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 274.
- (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-) (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
-Package xcolor Info: Model `RGB' extended on input line 1366.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-) (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
-File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (../TLCresume.sty
 
-LaTeX Warning: You have requested package `../TLCresume',
+LaTeX Warning: You have requested package `./../TLCresume',
                but the package provides `TLCresume'.
 
 Package: TLCresume 2021/12/11 resume package
@@ -111,7 +91,25 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks19
- (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent.sty
+ (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent.sty
 Package: transparent 2022-10-27 v1.5 Transparency with color stacks
  (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent-nometadata.sty
 Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color stack (HO)
@@ -515,46 +513,28 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
- (objective.aux)
-\openout1 = `objective.aux'.
+ (experience.aux)
+\openout1 = `experience.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
- (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count336
-\scratchdimen=\dimen176
-\scratchbox=\box57
-\nofMPsegments=\count337
-\nofMParguments=\count338
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count339
-\MPscratchDim=\dimen177
-\MPnumerator=\count340
-\makeMPintoPDFobject=\count341
-\everyMPtoPDFconversion=\toks25
-) (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -589,247 +569,59 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 16.
+(C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count336
+\scratchdimen=\dimen176
+\scratchbox=\box57
+\nofMPsegments=\count337
+\nofMParguments=\count338
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count339
+\MPscratchDim=\dimen177
+\MPnumerator=\count340
+\makeMPintoPDFobject=\count341
+\everyMPtoPDFconversion=\toks25
+) (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Alberto\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring ON on input line 6.
 \@outlinefile=\write3
-\openout3 = `objective.out'.
+\openout3 = `experience.out'.
 
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Undefined control sequence.
-<argument> \primaryColorToUse 
-                              
-l.26      \end{minipage}}
-                         
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 14.
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:18: Undefined control sequence.
+<argument> \spaceAfterField 
+                            
+l.18 \vspace*{\spaceAfterField}
+                               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Package xcolor Error: Undefined color `'.
-
-See the xcolor package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26      \end{minipage}}
-                         
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Undefined control sequence.
-<argument> \objTextColorToUse 
-                              
-l.26      \end{minipage}}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Package xcolor Error: Undefined color `'.
-
-See the xcolor package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26      \end{minipage}}
-                         
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 26.
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Undefined control sequence.
-<argument> \primaryHTMLColorToUse 
-                                  
-l.26      \end{minipage}}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Argument of \@gobbletwo has an extra }.
-<inserted text> 
-                \par 
-l.26      \end{minipage}}
-                         
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Paragraph ended before \@gobbletwo was complete.
-<to be read again> 
-                   \par 
-l.26      \end{minipage}}
-                         
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Missing number, treated as zero.
-<to be read again> 
-                   \tex_unskip:D 
-l.26      \end{minipage}}
-                         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Missing number, treated as zero.
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:18: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.26      \end{minipage}}
-                         
+l.18 \vspace*{\spaceAfterField}
+                               
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Undefined control sequence.
-<argument> \@@scl 
-                  
-l.26      \end{minipage}}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Missing number, treated as zero.
-<to be read again> 
-                   \@cclv 
-l.26      \end{minipage}}
-                         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \tex_unskip:D 
-l.26      \end{minipage}}
-                         
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Missing number, treated as zero.
-<to be read again> 
-                   \begingroup 
-l.26      \end{minipage}}
-                         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \begingroup 
-l.26      \end{minipage}}
-                         
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Undefined control sequence.
-<argument> \@@scl 
-                  
-l.26      \end{minipage}}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Missing number, treated as zero.
-<to be read again> 
-                   p
-l.26      \end{minipage}}
-                         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Arithmetic overflow.
-<recently read> \@tempcntb 
-                           
-l.26      \end{minipage}}
-                         
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Arithmetic overflow.
-<recently read> \@tempcntb 
-                           
-l.26      \end{minipage}}
-                         
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Arithmetic overflow.
-<recently read> \@tempcntb 
-                           
-l.26      \end{minipage}}
-                         
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Arithmetic overflow.
-<recently read> \@tempcntb 
-                           
-l.26      \end{minipage}}
-                         
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Arithmetic overflow.
-<recently read> \@tempcntb 
-                           
-l.26      \end{minipage}}
-                         
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Arithmetic overflow.
-<recently read> \@tempcntb 
-                           
-l.26      \end{minipage}}
-                         
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Arithmetic overflow.
-<recently read> \@tempcntb 
-                           
-l.26      \end{minipage}}
-                         
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Illegal unit of measure (pt inserted).
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:18: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.26      \end{minipage}}
-                         
+l.18 \vspace*{\spaceAfterField}
+                               
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -837,57 +629,215 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Undefined control sequence.
-<argument> \@@scl 
-                  
-l.26      \end{minipage}}
-                         
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 29.
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:34: Undefined control sequence.
+<argument> \spaceAfterField 
+                            
+l.34 \vspace*{\spaceAfterField}
+                               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/objective.tex:26: Undefined control sequence.
-<argument> \@@scl 
-                  
-l.26      \end{minipage}}
-                         
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:34: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.34 \vspace*{\spaceAfterField}
+                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:34: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.34 \vspace*{\spaceAfterField}
+                               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 44.
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:48: Undefined control sequence.
+<argument> \spaceAfterField 
+                            
+l.48 \vspace*{\spaceAfterField}
+                               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:48: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.48 \vspace*{\spaceAfterField}
+                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:48: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.48 \vspace*{\spaceAfterField}
+                               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 58.
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:62: Undefined control sequence.
+<argument> \spaceAfterField 
+                            
+l.62 \vspace*{\spaceAfterField}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:62: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.62 \vspace*{\spaceAfterField}
+                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:62: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.62 \vspace*{\spaceAfterField}
+                               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 73.
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:77: Undefined control sequence.
+<argument> \spaceAfterField 
+                            
+l.77 \vspace*{\spaceAfterField}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:77: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.77 \vspace*{\spaceAfterField}
+                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:77: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.77 \vspace*{\spaceAfterField}
+                               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 89.
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:93: Undefined control sequence.
+<argument> \spaceAfterField 
+                            
+l.93 \vspace*{\spaceAfterField}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:93: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.93 \vspace*{\spaceAfterField}
+                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/experience.tex:93: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.93 \vspace*{\spaceAfterField}
+                               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
 
 [1
 
-{C:/Users/Alberto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (objective.aux)
+{C:/Users/Alberto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (experience.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
 
 
-Package rerunfilecheck Warning: File `objective.out' has changed.
+Package rerunfilecheck Warning: File `experience.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `objective.out':
+Package rerunfilecheck Info: Checksums for `experience.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             After:  4BAE4F35D693F3EDA83EC096CDF4C71E;1787.
  ) 
 Here is how much of TeX's memory you used:
- 17581 strings out of 474495
- 306860 string characters out of 5742990
- 1928460 words of memory out of 5000000
- 39606 multiletter control sequences out of 15000+600000
- 562345 words of font info for 47 fonts, out of 8000000 for 9000
+ 17500 strings out of 474495
+ 305501 string characters out of 5742990
+ 1939460 words of memory out of 5000000
+ 39527 multiletter control sequences out of 15000+600000
+ 560928 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,5n,135p,668b,501s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Alberto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Alberto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk>
-Output written on objective.pdf (1 page, 16493 bytes).
+ 140i,5n,135p,392b,501s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Alberto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Alberto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Alberto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Alberto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk>
+Output written on experience.pdf (1 page, 51532 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
+ 167 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
