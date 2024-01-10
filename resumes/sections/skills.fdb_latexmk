@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1703276997 "c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/skills.tex" "skills.pdf" "skills" 1703276998 0
+["pdflatex"] 1704890859 "c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/skills.tex" "skills.pdf" "skills" 1704890860 0
   "C:/Users/Alberto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1703275309 82347 0a47e4f8d01f5d55a2e12fd68cc2a137 ""
   "C:/Users/Alberto/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1703184199 24224975 f20b9424a71e933f54b931085f5eb69c ""
   "C:/Users/Alberto/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -20,9 +20,9 @@
   "C:/Users/Alberto/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1698826601 20144 fbcf51733730d8f1a62143512ff5b1fe ""
   "C:/Users/Alberto/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1698826601 8449 9de778d73ba774a5f2bd601f23f8922e ""
   "C:/Users/Alberto/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1699552361 29988 6d57d2b884f7464419678df319af86d2 ""
-  "c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/skills.tex" 1703276997 868 f1dcce18e3910da20ccc6b7b395318db ""
-  "skills.aux" 1703276997 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "skills.tex" 1703276997 868 f1dcce18e3910da20ccc6b7b395318db ""
+  "c:/Users/Alberto/Desktop/github/latex-resumes/resumes/sections/skills.tex" 1704890857 882 dbc06d855f9f510753c3ac87867bef0c ""
+  "skills.aux" 1704890860 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "skills.tex" 1704890857 882 dbc06d855f9f510753c3ac87867bef0c ""
   (generated)
   "skills.aux"
   "skills.log"
