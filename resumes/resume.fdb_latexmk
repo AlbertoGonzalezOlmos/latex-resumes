@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1704891490 "c:/Users/Alberto/Desktop/github/latex-resumes/resumes/resume.tex" "resume.pdf" "resume" 1704891491 0
+["pdflatex"] 1705381993 "c:/Users/Alberto/Desktop/github/latex-resumes/resumes/resume.tex" "resume.pdf" "resume" 1705381995 0
   "C:/Users/Alberto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1703275309 82347 0a47e4f8d01f5d55a2e12fd68cc2a137 ""
   "C:/Users/Alberto/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1703187140 31952 f8632683deb127754eedf69e9827c14c ""
   "C:/Users/Alberto/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1440.pk" 1703187139 36900 0b8bc0cd35a49526ab4e66dd520585b7 ""
@@ -145,15 +145,15 @@
   "C:/Users/Alberto/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "TLCresume.sty" 1703307914 2728 29f95bd2f0c396e54eb6e5d1184043db ""
   "c:/Users/Alberto/Desktop/github/latex-resumes/resumes/resume.tex" 1703275843 2129 c1ef788c07534ebb5d2ac730298ae03d ""
-  "resume.aux" 1704891491 2193 745734e5787253e449b55860efad3373 "pdflatex"
-  "resume.out" 1704891491 2691 9b50a484f6526acad64bd0a41f72dbf6 "pdflatex"
+  "resume.aux" 1705381995 2193 745734e5787253e449b55860efad3373 "pdflatex"
+  "resume.out" 1705381995 2691 9b50a484f6526acad64bd0a41f72dbf6 "pdflatex"
   "resume.tex" 1703275843 2129 c1ef788c07534ebb5d2ac730298ae03d ""
-  "sections/_header.tex" 1703278617 1093 67ea7203eb16dd269c8adc8d4c0476c1 ""
+  "sections/_header.tex" 1705381923 1100 5a47c46ff42f8aac029cddab249a315e ""
   "sections/courses.tex" 1704890858 793 e8e2c8d78baf4f09dfb8c9ae72042736 ""
   "sections/education.tex" 1703183585 1182 bc25182f3e987748efe453502539bb74 ""
   "sections/experience.tex" 1704891480 3954 d11eca6d1378cfc3272a42d605d4bb6f ""
   "sections/hobbies.tex" 1703278691 289 b3c5e8092c4447a0d19bdb1dc286229b ""
-  "sections/objective.tex" 1703278678 1294 ee1c7428b77ebda3c11dd60fd48c1a87 ""
+  "sections/objective.tex" 1705381971 1283 947890f0be23c4f4ea9bac0760590e03 ""
   "sections/publications.tex" 1703183680 904 30062462700ea4ab86c1aef2d74ec7b4 ""
   "sections/skills.tex" 1704890857 882 dbc06d855f9f510753c3ac87867bef0c ""
   (generated)

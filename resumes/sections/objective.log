@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.21)  22 DEC 2023 21:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.21)  16 JAN 2024 06:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -883,9 +883,9 @@ Here is how much of TeX's memory you used:
  39606 multiletter control sequences out of 15000+600000
  562345 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,5n,135p,668b,501s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 140i,5n,135p,657b,501s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Alberto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Alberto\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk>
-Output written on objective.pdf (1 page, 16493 bytes).
+Output written on objective.pdf (1 page, 16471 bytes).
 PDF statistics:
  61 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
